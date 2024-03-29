@@ -1,0 +1,43 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #E63946;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.category {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #E63946;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #E63946;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
